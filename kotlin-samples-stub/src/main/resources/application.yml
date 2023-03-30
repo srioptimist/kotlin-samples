@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: kotlin-samples-stub
+  main:
+    web-application-type: none
+
+http:
+  port: 8081
